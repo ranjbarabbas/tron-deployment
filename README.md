@@ -29,7 +29,7 @@ bash deploy_tron.sh --app [FullNode|SolidityNode] --net [mainnet|testnet|private
 ### Deployment of FullNode on the one host.
 
 ```shell
-wget https://raw.githubusercontent.com/tronprotocol/TronDeployment/master/deploy_tron.sh -O deploy_tron.sh
+wget https://raw.githubusercontent.com/ranjbarabbas/TronDeployment/master/deploy_tron.sh -O deploy_tron.sh
 bash deploy_tron.sh
 ```
 
